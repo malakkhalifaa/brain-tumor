@@ -4,7 +4,6 @@ This repository presents a deep learning pipeline for **automatic classification
 
 ---
 
-## Table of Contents
 
 ## Table of Contents
 
