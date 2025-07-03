@@ -6,16 +6,17 @@ This repository presents a deep learning pipeline for **automatic classification
 
 ## Table of Contents
 
-- Project Overview  
-- Dataset Description  
-- Preprocessing  
-- Model Architecture  
-- Training Details  
-- Evaluation Metrics  
-- Web App Deployment  
-- Directory Structure  
-- Usage Instructions  
-- Planned Improvements  
+## Table of Contents
+
+- [Project Overview](#project-overview)  
+- [Dataset Description](#dataset-description)  
+- [Preprocessing](#preprocessing)  
+- [Model Architecture](#model-architecture)  
+- [Training Details](#training-details)  
+- [Evaluation Metrics](#evaluation-metrics)  
+- [Web App Deployment](#web-app-deployment)  
+
+
 
 ---
 
