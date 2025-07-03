@@ -70,7 +70,10 @@ Brain tumor detection from MRI images is critical for early diagnosis and treatm
   - Dense(4, activation='softmax')  
 - Loss: sparse_categorical_crossentropy  
 - Optimizer: Adam with lr=1e-4  
-- Metric: sparse_categorical_accuracy  
+- Metric: sparse_categorical_accuracy
+
+  ![image](https://github.com/user-attachments/assets/f1591a79-2e1c-42d0-9027-3c1cdca734a2)
+
 
 ---
 
@@ -129,6 +132,5 @@ Test Set: 1,311 images
 - Upload form  
 - Real-time class result and formatting  
 
----
 
 
