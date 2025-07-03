@@ -132,5 +132,7 @@ Test Set: 1,311 images
 - Upload form  
 - Real-time class result and formatting  
 
+![image](https://github.com/user-attachments/assets/18ee6606-d272-4457-be94-b4dfc6973e54)
+![image](https://github.com/user-attachments/assets/b2c05fc1-78af-48b4-937b-8758a9d5c3c9)
 
 
