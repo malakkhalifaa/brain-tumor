@@ -89,7 +89,7 @@ Brain tumor detection from MRI images is critical for early diagnosis and treatm
 - Final Training Loss: 0.06  
 
 ![image](https://github.com/user-attachments/assets/4ba6d8be-d406-425d-b035-0b2ed18ccf20)
-
+![image](https://github.com/user-attachments/assets/35d18b53-5cef-433b-8f3a-98c5623b648a)
 
 ---
 
