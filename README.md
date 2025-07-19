@@ -4,7 +4,6 @@ This repository presents a deep learning pipeline for **automatic classification
 
 ---
 
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)  
@@ -14,8 +13,6 @@ This repository presents a deep learning pipeline for **automatic classification
 - [Training Details](#training-details)  
 - [Evaluation Metrics](#evaluation-metrics)  
 - [Web App Deployment](#web-app-deployment)  
-
-
 
 ---
 
@@ -53,7 +50,7 @@ Brain tumor detection from MRI images is critical for early diagnosis and treatm
   - Flipping
   - Zoom
   - Width/height shift
-    
+
 ![image](https://github.com/user-attachments/assets/4218dd34-292b-4c70-b6f9-712eba35f495)
 
 ---
@@ -72,8 +69,7 @@ Brain tumor detection from MRI images is critical for early diagnosis and treatm
 - Optimizer: Adam with lr=1e-4  
 - Metric: sparse_categorical_accuracy
 
-  ![image](https://github.com/user-attachments/assets/f1591a79-2e1c-42d0-9027-3c1cdca734a2)
-
+![image](https://github.com/user-attachments/assets/f1591a79-2e1c-42d0-9027-3c1cdca734a2)
 
 ---
 
@@ -90,6 +86,12 @@ Brain tumor detection from MRI images is critical for early diagnosis and treatm
 ![image](https://github.com/user-attachments/assets/4ba6d8be-d406-425d-b035-0b2ed18ccf20)
 ![image](https://github.com/user-attachments/assets/35d18b53-5cef-433b-8f3a-98c5623b648a)
 
+## Model Confusion Matrix 
+<img width="1641" height="1397" alt="image" src="https://github.com/user-attachments/assets/e5004a85-935d-41f7-9b36-1c44ba621fdb" />
+---
+## ROC Curve Plot
+<img width="2203" height="1543" alt="image" src="https://github.com/user-attachments/assets/d814aa13-84d4-433f-9313-6ab75f4e9000" />
+
 ---
 
 ## Evaluation Metrics
@@ -104,7 +106,6 @@ Test Set: 1,311 images
 | No Tumor    | 0.86      | 0.99   | 0.92     | 300     |
 
 ![image](https://github.com/user-attachments/assets/39b9903e-8aab-4091-871f-e3008a1a3d2d)
-
 
 - Overall Accuracy: 85.0%  
 - Macro F1 Score: 0.81  
@@ -134,5 +135,3 @@ Test Set: 1,311 images
 
 ![image](https://github.com/user-attachments/assets/18ee6606-d272-4457-be94-b4dfc6973e54)
 ![image](https://github.com/user-attachments/assets/b2c05fc1-78af-48b4-937b-8758a9d5c3c9)
-
-
