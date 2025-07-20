@@ -88,7 +88,7 @@ Brain tumor detection from MRI images is critical for early diagnosis and treatm
 
 ## Model Confusion Matrix 
 <img width="1641" height="1397" alt="image" src="https://github.com/user-attachments/assets/e5004a85-935d-41f7-9b36-1c44ba621fdb" />
----
+
 ## ROC Curve Plot
 <img width="2203" height="1543" alt="image" src="https://github.com/user-attachments/assets/d814aa13-84d4-433f-9313-6ab75f4e9000" />
 
